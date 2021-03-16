@@ -1,0 +1,13 @@
+C:\Users\rival\Desktop\DPINT_Wk456_Koffiemachine-master\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.dll
+C:\Users\rival\Desktop\DPINT_Wk456_Koffiemachine-master\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\rival\Desktop\DPINT_Wk456_Koffiemachine-master\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.csprojResolveAssemblyReference.cache
+C:\Users\rival\Desktop\DPINT_Wk456_Koffiemachine-master\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.csproj.CoreCompileInputs.cache
+C:\Users\rival\Desktop\DPINT_Wk456_Koffiemachine-master\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.dll
+C:\Users\rival\Desktop\DPINT_Wk456_Koffiemachine-master\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.pdb
+C:\Users\rival\Desktop\DPINT_Wk456_Koffiemachine-master\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\bin\Debug\TeaAndChocoLibrary.dll
+C:\Users\RivaldoPC\Desktop\DPINT_Wk456_Koffiemachine-master-20180307T202432Z-001\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.dll
+C:\Users\RivaldoPC\Desktop\DPINT_Wk456_Koffiemachine-master-20180307T202432Z-001\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\RivaldoPC\Desktop\DPINT_Wk456_Koffiemachine-master-20180307T202432Z-001\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\bin\Debug\TeaAndChocoLibrary.dll
+C:\Users\RivaldoPC\Desktop\DPINT_Wk456_Koffiemachine-master-20180307T202432Z-001\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.dll
+C:\Users\RivaldoPC\Desktop\DPINT_Wk456_Koffiemachine-master-20180307T202432Z-001\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.pdb
+C:\Users\RivaldoPC\Desktop\DPINT_Wk456_Koffiemachine-master-20180307T202432Z-001\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.csprojResolveAssemblyReference.cache
